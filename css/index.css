@@ -1,8 +1,14 @@
-.l-container {
+.jumbotron-fluid {
+  text-shadow: #444 0 1px 1px;
+  color: #000;
+  position: relative;
+  height: 350px;
+  text-align: center;
   display: flex;
-  flex-direction: row;
+  align-items: center;
 }
 
-.l-item {
-  flex: 1;
+.border-foto {
+  border-radius: 50%;
+  border: 5px solid #343A3F;
 }
