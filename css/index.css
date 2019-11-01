@@ -1,0 +1,8 @@
+.l-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.l-item {
+  flex: 1;
+}
